@@ -12,10 +12,10 @@ A finalidade do projeto era a criação e estruturação relacional de uma base 
    - Contém os dados principais dos livros, como título, autor, ano de publicação, e um ID que referencia o tipo de livro.
 
 2. **Tabela Auxiliar (`genero.csv`)**
-   - Mapeia os IDs de `id_genero` para os nomes descritivos dos tipos de livros.
+   - Mapeia os IDs de `id_genero` para os gêneros literários dos livros.
   
 3. **Tabela Auxiliar (`status.csv`)**
-   - Mapeia os IDs de `id_status` para os nomes descritivos dos tipos de livros.
+   - Mapeia os IDs de `id_status` para o status dos livros.
 
 4. **Tabela Auxiliar (`tipo.csv`)**
    - Mapeia os IDs de `id_tipo` para os nomes descritivos dos tipos de livros.
